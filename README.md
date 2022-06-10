@@ -5,3 +5,4 @@
 3. Introduction to Pandas - 3 : Sorting and Groupby
 4. Introduction to Pandas - 4 : Merge and Concat 
 5. Introduction to Pandas - 5 : Missing Values , Apply Map and Saving Files 
+6. Program-1 Sample program using all methods and functions 
